@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @g-vansh
 - 👀 I’m interested in studying innovation economics
 - 🌱 I'm currently learning machine learning methods for causal inference
-- 📫 I can be reached at vansh\[at\]mit.edu 
+- 📫 I can be reached at vansh\[at\]mit.edu
+
+![Profile Views](https://komarev.com/ghpvc/?username=g-vansh)
 
 My name is Vansh. I am an incoming PhD student at [MIT's Sloan School of Management, in the Technological Innovation, Entrepreneurship, and Strategic Management](https://mitsloan.mit.edu/faculty/academic-groups/ties/phd-program) program. 
 
