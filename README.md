@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=g-vansh)
 
-My name is Vansh. I am an incoming PhD student at [MIT's Sloan School of Management, in the Technological Innovation, Entrepreneurship, and Strategic Management](https://mitsloan.mit.edu/faculty/academic-groups/ties/phd-program) program. 
+My name is Vansh. I am a PhD student at [MIT's Sloan School of Management, in the Technological Innovation, Entrepreneurship, and Strategic Management](https://mitsloan.mit.edu/faculty/academic-groups/ties/phd-program) program. 
 
 I am interested in applying my knowledge of innovation, econometrics, computer science, and biostatistics to study how and when people come up with ideas. Currently, I am exploring the effects of proximity on innovation and related policies. Recently, I have been curious about innovation's links to human evolution as well. My works-in-progress include research projects that study [the effectiveness of the GitHub Sponsors Program to improve innovation](https://www.nber.org/papers/w31668), and the [effectiveness of Brazilian municipal governments in mitigating the effects of regular flooding disasters](https://www.vansh-gupta.com/publication/Diario-Municipal). I have research experience in development, innovation, education, healthcare, industrial organization, strategy, and urban economics. Please go to the [research](https://www.vansh-gupta.com/publications/) section to learn more about some of my research projects!
 
